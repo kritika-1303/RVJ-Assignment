@@ -1,5 +1,5 @@
 const apiBaseUrl = 'https://gorest.co.in/public-api/users';
-const apiToken = 'yaha apna token number dalna'; // Replace with your API token
+const apiToken = 'fbcff8d5a5b8dd94c1d0cb81a5232507e094aefa940cfab0b37148595204fce5';
 
 let currentPage = 1;
 const usersPerPage = 7;
